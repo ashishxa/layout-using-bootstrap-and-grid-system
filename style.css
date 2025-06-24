@@ -1,0 +1,6 @@
+
+body {
+      background-image: url(bricks.png); /* Brick wall */
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
